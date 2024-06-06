@@ -1,0 +1,78 @@
+import { PumaLogo, NikeLogo, ZaraLogo } from "@/assets/constants/icons";
+import Puma from "@/assets/images/puma.png";
+import Nike from "@/assets/images/nike.png";
+import Zara from "@/assets/images/zara.png";
+export default [
+  {
+    id: 1,
+    coverImg: Nike,
+    logo: NikeLogo,
+    name: "Nike",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 2,
+    coverImg: Puma,
+    logo: PumaLogo,
+    name: "Puma",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 3,
+    coverImg: Zara,
+    logo: ZaraLogo,
+    name: "Zara",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 4,
+    coverImg: Puma,
+    logo: PumaLogo,
+    name: "Puma",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 5,
+    coverImg: Zara,
+    logo: ZaraLogo,
+    name: "Zara",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 6,
+    coverImg: Nike,
+    logo: NikeLogo,
+    name: "Nike",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 7,
+    coverImg: Puma,
+    logo: PumaLogo,
+    name: "Puma",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+  {
+    id: 8,
+    coverImg: Zara,
+    logo: ZaraLogo,
+    name: "Zara",
+    rating: 4.5,
+    location: "Texas",
+    discount: "10%",
+  },
+];
